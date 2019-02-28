@@ -12,11 +12,11 @@ public class JamesGit {
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
-
+//添加了一行注释
 
     }
 
-    public void test(){
+    public void test() {
         int i = 10;
 
     }
