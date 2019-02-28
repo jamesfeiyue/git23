@@ -15,4 +15,9 @@ public class JamesGit {
 
 
     }
+
+    public void test(){
+        int i = 10;
+
+    }
 }
